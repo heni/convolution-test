@@ -1,2 +1,2 @@
-make -C src
+make -BC src
 ./src/convolutions
